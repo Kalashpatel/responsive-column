@@ -1,6 +1,6 @@
 #Responsive column 
 #output screen : xl
-(assests/images/Screenshot%20(1).png)
+![output](assests/images/Screenshot%20(1).png)
 #output screen : lg
 ![output](assests/images/Screenshot%20(2).png)
 #output screen : md
